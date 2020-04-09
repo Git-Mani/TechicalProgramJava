@@ -1,0 +1,12 @@
+Technical program for java interview 
+
+Q #1) Write a Java Program to reverse a string without using String inbuilt function.
+Q #2) Write a Java Program to swap two numbers using the third variable.
+Q #3) Write a Java Program to swap two numbers without using the third variable.
+Q #4) Write a Java Program to iterate HashMap using While and advance for loop.
+Q #5) Write a Java Program to count the number of words in a string using HashMap.
+Q #6) Write a Java Program to find whether a number is prime or not..
+Q #7) Write a Java Program to find whether a string or number is palindrome or not.
+Q #8) Write a Java Program for the Fibonacci series.
+Q #9) Write a Java Program to iterate ArrayList using for-loop, while-loop, and advance for-loop.
+Q #10) Write a Java Program to find the duplicate characters in a string.
