@@ -1,0 +1,10 @@
+Q.1) Write a Java Program to find the second-highest number in an array.
+Q.2)Write a Java Program to check Armstrong number.
+Q.3) Write a Java Program to remove all white spaces from a string with using replace().
+Q.4)Write a Java Program to remove all white spaces from a string without using replace().
+Q 5) Write a Java Program to read an excel.
+Q.6)How To Create Pyramid Of Numbers In Java?
+Q.7) How do you check the equality of two arrays in java?
+Q.8)Anagram program in java
+Q.9)Java Program To Check Whether Given Number Is Binary Or Not
+Q.10)How to remove duplicate elements from ArrayList in java?
